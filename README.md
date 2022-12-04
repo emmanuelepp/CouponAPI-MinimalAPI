@@ -1,1 +1,1 @@
-# CouponAPI - This is a example of minimal API with .NET 7
+## CouponAPI - This is a example of minimal API with .NET 7
