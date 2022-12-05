@@ -3,7 +3,7 @@
 How to run
 
 PM Console: 
-add-migration AddCoupon
+add-migration AddCoupon\
 update-database
 
 run the project and test the API
