@@ -2,7 +2,7 @@
 
 How to run
 
-1 - Configure your appsettings.json with your server credentials.<br>
+1 - Configure your appsettings.json with your server credentials.
 Example: <br>
 Server=YOUR_SERVER; Database=YOUR_DATABASE;TrustServerCertificate=true;Trusted_Connection=True; MultipleActiveResultSets=True;
 
