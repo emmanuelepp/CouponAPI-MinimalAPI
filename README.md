@@ -2,7 +2,7 @@
 
 How to run
 
-PM Console: 
+PM Console:\ 
 add-migration AddCoupon\
 update-database
 
