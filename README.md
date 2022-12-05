@@ -2,12 +2,12 @@
 
 How to run
 
-1 - Configure your appsettings.json with your server credentials.
-Example: 
+1 - Configure your appsettings.json with your server credentials.<br>
+Example: <br>
 Server=YOUR_SERVER; Database=YOUR_DATABASE;TrustServerCertificate=true;Trusted_Connection=True; MultipleActiveResultSets=True;
 
-2 - PM Console:
-add-migration AddCoupon\
+2 - PM Console: <br>
+add-migration AddCoupon <br>
 update-database
 
 3 - Run the project and test the API
