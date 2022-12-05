@@ -2,8 +2,12 @@
 
 How to run
 
-PM Console:
+1 - Configure your appsettings.json with your server credentials.
+Example: 
+Server=YOUR_SERVER; Database=YOUR_DATABASE;TrustServerCertificate=true;Trusted_Connection=True; MultipleActiveResultSets=True;
+
+2 - PM Console:
 add-migration AddCoupon\
 update-database
 
-run the project and test the API
+3 - Run the project and test the API
